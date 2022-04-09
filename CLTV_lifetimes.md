@@ -1,4 +1,3 @@
-# CLTV
 - 데이터셋 출처 : http://archive.ics.uci.edu/ml/datasets/Online+Retai
 - 총 2년 동안의 데이터를 활용해 모델 평가.
 1. 초반 1년의 데이터 학습 -> 이후 6개월 예측(1년 ~ 1년 6개월) -> 실제 데이터와 비교 평가
